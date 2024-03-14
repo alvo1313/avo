@@ -1,7 +1,7 @@
 {
   "name": "AVOGATO",
   "symbol": "AVGO",
-  "uri": "https://github.com/alvo1313/avo/blob/main/details.json",
+  "uri": "https://raw.githubusercontent.com/alvo1313/avo/main/details.json",
   "seller_fee_basis_points": 500,
   "creators": [],
   "image": "https://github.com/alvo1313/avo/blob/main/image.png?raw=true",
